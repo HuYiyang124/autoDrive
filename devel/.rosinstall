@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/autolabor/rs_catkin/devel/setup.sh

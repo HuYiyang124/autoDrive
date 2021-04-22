@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libpoint_process.so -o /home/autolabor/rs_catkin/devel/lib/libpoint_process.so CMakeFiles/point_process.dir/point_process.cpp.o 
